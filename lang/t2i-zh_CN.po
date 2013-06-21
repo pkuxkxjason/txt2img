@@ -21,7 +21,7 @@ msgstr "生成长微博图片"
 
 #: txt2img.php:22
 msgid "Generating..."
-msgstr "生成中……"
+msgstr "生成中......"
 
 #: txt2img.php:23
 msgid "Share Weibo"
